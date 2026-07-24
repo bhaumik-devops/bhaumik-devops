@@ -12,10 +12,6 @@
 
 ---
 
-# Hi 👋 I'm Bhaumik Dhebar
-
-## 🚀 Aspiring DevOps & Cloud Engineer
-
 Welcome to my GitHub!
 
 I'm currently building my journey from beginner to professional DevOps Engineer through daily hands-on practice and real-world projects.
