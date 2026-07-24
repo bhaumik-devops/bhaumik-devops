@@ -27,7 +27,7 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 
 ---
 
-## 🛠️ Tech Stack (Currently Learning)
+## 🛠️ Technologies I'm Learning
 
 <p align="center">
 
