@@ -31,18 +31,13 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 
 ---
 
-## 🛠️ Tech Stack (Learning)
+## 🛠️ Tech Stack (Currently Learning)
 
-- Git
-- GitHub
-- Networking
-- Linux
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Ansible
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,kubernetes,terraform,jenkins,ansible,vscode" />
+
+</p>
 
 ---
 
