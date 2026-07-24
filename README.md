@@ -12,7 +12,7 @@
 
 ---
 
-Welcome to my GitHub!
+Welcome to my DevOps learning journey!
 
 I'm currently building my journey from beginner to professional DevOps Engineer through daily hands-on practice and real-world projects.
 
