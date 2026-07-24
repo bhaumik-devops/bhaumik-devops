@@ -23,7 +23,7 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 - 🌱 Currently learning Git, GitHub, Networking & Linux
 - ☁️ Next: AWS Cloud, Docker, Kubernetes, Terraform & Ansible
 - 🎯 Goal: Become a Job-Ready DevOps Engineer
-- 📍 Ahmedabad, Gujarat, India
+- 📍 India
 
 ---
 
