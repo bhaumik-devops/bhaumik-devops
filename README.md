@@ -73,9 +73,10 @@ Build Production-Level DevOps Projects and become a professional DevOps Engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhaumik-devops&show_icons=true&theme=github_dark&hide_border=true" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bhaumik-devops&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Bhaumik's GitHub Stats"
+  />
 </p>
 
 ---
