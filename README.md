@@ -40,7 +40,7 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 ## 📚 Current Roadmap
 
 - ✅ Git
-- 🔄 GitHub
+- ✅ GitHub
 - ⏳ Networking
 - ⏳ Linux
 - ⏳ AWS
