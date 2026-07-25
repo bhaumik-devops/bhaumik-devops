@@ -2,19 +2,6 @@
   <img src="https://raw.githubusercontent.com/bhaumik-devops/bhaumik-devops/main/github-banner.png" alt="Bhaumik DevOps Banner" width="100%">
 </p>
 
-
-<div align="center">
-
-# 🚀 Bhaumik Dhebar
-
-### Aspiring DevOps & Cloud Engineer
-
-**Learning Every Day • Building Every Week**
-
-*Linux • Git • GitHub • Networking • AWS • Docker • Kubernetes*
-
-</div>
-
 ---
 
 Welcome to my DevOps learning journey!
