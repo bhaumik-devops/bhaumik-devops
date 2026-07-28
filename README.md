@@ -76,9 +76,7 @@ Build Production-Level DevOps Projects and become a professional DevOps Engineer
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhaumik-devops&theme=github-dark-blue&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=bhaumik-devops&theme=github-dark-blue"/>
 </p>
 
 ---
