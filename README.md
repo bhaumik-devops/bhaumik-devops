@@ -12,10 +12,10 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning Git, GitHub, Networking & Linux
-- ☁️ Next: AWS Cloud, Docker, Kubernetes, Terraform & Ansible
+- 🌱 Building my DevOps skills through hands-on learning and practical projects
+- ☁️ Focused on Cloud, Automation, Infrastructure & CI/CD
+- 🐍 Learning Python for DevOps automation
 - 🎯 Goal: Become a Job-Ready DevOps Engineer
-- 📍 India
 
 ---
 
@@ -23,7 +23,7 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,kubernetes,terraform,jenkins,ansible,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,kubernetes,terraform,jenkins,ansible,python,vscode" />
 
 </p>
 
@@ -31,16 +31,16 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 
 ## 📚 Current Roadmap
 
-- ✅ Git
-- ✅ GitHub
+- 🔄 Git & GitHub
+- 🐍 Python
 - ⏳ Networking
-- ⏳ Linux
-- ⏳ AWS
+- ⏳ Linux System Administration
+- ⏳ AWS Cloud
 - ⏳ Docker
 - ⏳ Kubernetes
+- ⏳ Ansible
 - ⏳ Terraform
 - ⏳ Jenkins
-- ⏳ Ansible
 
 ---
 
@@ -48,30 +48,21 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 
 - Linux Administration Lab
 - Git & GitHub Practice
+- Python DevOps Automation Projects
 - Docker Projects
 - Kubernetes Deployments
 - CI/CD Pipeline
 - Terraform Infrastructure
 - AWS Cloud Projects
-
 ---
+
 
 ## 🎯 Career Goal
 
-Build Production-Level DevOps Projects and become a professional DevOps Engineer.
+Build production-level DevOps projects and become a job-ready DevOps Engineer with strong Cloud, Automation and Infrastructure skills.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bhaumik-devops&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Bhaumik's GitHub Stats"
-  />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
