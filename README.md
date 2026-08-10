@@ -66,7 +66,7 @@ Build Production-Level DevOps Projects and become a professional DevOps Engineer
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhaumik-devops&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=bhaumik-devops&show_icons=true&theme=github_dark&hide_border=true"
     alt="Bhaumik's GitHub Stats"
   />
 </p>
