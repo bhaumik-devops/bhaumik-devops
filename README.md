@@ -66,7 +66,11 @@ Build production-level DevOps projects and become a job-ready DevOps Engineer wi
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhaumik-devops&theme=github-dark-blue"/>
+  <img
+    src="https://streak-stats.demolab.com?user=bhaumik-devops&theme=github-dark-blue"
+    alt="GitHub Contribution Streak"
+    width="500"
+  />
 </p>
 
 ---
