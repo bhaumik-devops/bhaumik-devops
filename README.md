@@ -56,25 +56,11 @@ I'm currently building my journey from beginner to professional DevOps Engineer 
 - AWS Cloud Projects
 ---
 
-
 ## 🎯 Career Goal
 
 Build production-level DevOps projects and become a job-ready DevOps Engineer with strong Cloud, Automation and Infrastructure skills.
 
 ---
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=bhaumik-devops&theme=github-dark-blue"
-    alt="GitHub Contribution Streak"
-    width="500"
-  />
-</p>
-
----
-
 
 ## 🐍 GitHub Contribution Snake
 
@@ -83,6 +69,7 @@ Build production-level DevOps projects and become a job-ready DevOps Engineer wi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaumik-devops/bhaumik-devops/output/github-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bhaumik-devops/bhaumik-devops/output/github-snake.svg">
 </picture>
+
 
 
 ⭐ Thank you for visiting my GitHub profile.
